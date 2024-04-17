@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+    height:100vw;
+    width:400px;
+}
+.second{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+}
