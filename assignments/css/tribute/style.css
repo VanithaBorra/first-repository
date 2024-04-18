@@ -1,0 +1,12 @@
+body{
+    background-color: azure;box-sizing: border-box;
+}
+.title{
+  display: flex;
+  flex-direction: row;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+   row-gap: 10px;
+}
