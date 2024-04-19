@@ -1,0 +1,12 @@
+body{
+background-color:skyblue;
+}
+.main{
+    display: flex;
+    flex-direction:row;
+    padding-left: 40px;
+}
+.second{
+    padding-left: 40px;
+}
+ 
